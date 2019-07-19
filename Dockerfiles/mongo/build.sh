@@ -1,0 +1,1 @@
+sudo docker build -t my-mongo -f dockerfile.mongo .

@@ -1,0 +1,12 @@
+FROM mongo
+
+RUN mkdir -p /docker/volumes/
+
+RUN mkdir -p /docker/volumes/mongo
+
+VOLUME ["/data/db"]
+WORKDIR /data
+
+EXPOSE 27017
+
+CMD ["mongod"]

@@ -1,0 +1,1 @@
+sudo docker run -it  --net=host --name app-otus my-app

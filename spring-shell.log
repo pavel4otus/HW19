@@ -1,0 +1,43 @@
+1556963222340:help
+1556963229306:genre list
+1556963265819:genre list help
+1556963304208:genre add "антастика"
+1556963314235:genre list
+1556963331469:genre add "Фантастика"
+1556963337723:genre list
+1556963362603:author list
+1556963460523:autor add help
+1556963548596:author add "Кинг" 12.09.1265 +7812892383 p@mail.ru "простой алрес"
+1556963659615:add book 121212 "Новая книга" 5ccd60dce35ef025d083fd2e 1990 Москва астрал 5ccd6003e35ef025d083fd2d
+1556963683563:stacktrace
+1556963726739:add book 121212 "Новая книга" "5ccd60dce35ef025d083fd2e" 1990 "Москва" "астрал" "5ccd6003e35ef025d083fd2d"
+1556963756611:book add 121212 "Новая книга" "5ccd60dce35ef025d083fd2e" 1990 "Москва" "астрал" "5ccd6003e35ef025d083fd2d"
+1556963781772:genre delete 5ccd5fe8e35ef025d083fd2c
+1556964522638:genre delete 5ccd6003e35ef025d083fd2d
+1556964544347:genre list
+1556964576529:genre id # 5ccd6003e35ef025d083fd2d
+1556964606042:genre del
+1556964622157:genrre delete 5ccd6003e35ef025d083fd2d
+1556964630366:genre delete 5ccd6003e35ef025d083fd2d
+1557045901946:genre list
+1557045927360:help
+1557045980376:genre add Фантастика
+1557045989521:author add King
+1557045999600:stacktrace
+1557046062473:author add king 12.01.2990 +7812333333 p@mail.ru "нет информации"
+1557046197323:book add 123 TestName 5ccea32ee35ef02eac1e02aa 1990 Москва Астор-Н 5ccea2dce35ef02eac1e02a9
+1557046221955:delete author 5ccea32ee35ef02eac1e02aa
+1557046230240:stacktrace
+1557046275780:delete genre 5ccea2dce35ef02eac1e02a9
+1557046286274:genre delete 5ccea2dce35ef02eac1e02a9
+1557046301184:tracktrace
+1557046312176:stacktrace
+1557046329698:genre delete 5ccea2dce35ef02eac1e02a9
+1557046334832:stacktrace
+1557046999746:help
+1557047045271:author add king 12.01.2019 +781223232323 p@mail no_info
+1557047059937:genre add fantasy
+1557047114731:book add 123 testName 5ccea705e35ef02ad08b4223 2015 Moscow Astor-H 5ccea713e35ef02ad08b4224
+1557047131108:genre delete 5ccea713e35ef02ad08b4224
+1557047156787:author delete 5ccea705e35ef02ad08b4223
+1557047171475:delete book 5ccea74ae35ef02ad08b4225
